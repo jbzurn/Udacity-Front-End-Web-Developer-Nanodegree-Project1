@@ -1,0 +1,39 @@
+HTML & CSS styling references
+http://www.w3schools.com/cssref/css3_pr_font-stretch.asp
+http://www.w3schools.com/cssref/pr_text_word-spacing.asp 
+http://www.w3schools.com/html/html_lists.asp
+http://www.w3schools.com/cssref/pr_dim_line-height.asp
+http://www.w3schools.com/cssref/pr_list-style.asp
+http://www.w3schools.com/cssref/pr_dim_height.asp
+http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+http://www.w3schools.com/cssref/css3_pr_font-size-adjust.asp
+http://www.w3schools.com/cssref/pr_font_weight.asp
+http://www.w3schools.com/cssref/pr_text_word-spacing.asp
+http://www.w3schools.com/cssref/pr_border-spacing.asp
+http://www.w3schools.com/cssref/css3_pr_flex-shrink.asp
+http://www.w3schools.com/cssref/pr_font_font-family.asp
+http://css-tricks.com/using-css-for-image-borders/
+http://www.w3schools.com/html/html_tables.asp
+
+Add-on's for Sublime (didn't end up using)
+https://packagecontrol.io/packages/Alignment
+
+Tried to identify the font
+http://www.myfonts.com/WhatTheFont/
+http://www.google.com/fonts 
+
+Code validation:
+http://jigsaw.w3.org/css-validator/validator
+http://validator.w3.org/#validate_by_input
+
+People: 
+A friend suggested I install LiveReload. I installed the Mac app and the corresponding Chrome extension, configured them, and it was very helpful. 
+http://livereload.com/
+https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
+https://github.com/guard/guard-livereload/issues/110
+
+Piazza: 
+https://piazza.com/class/i23vpy8h7l27la?cid=417  searched an error I was getting on the code test, and found somone posted a solution to it last week
+
+Training: 
+Created a "boilerplate" html file from watching the HTML classes, and used that, plus the CSS files, as the starting point for this project. 
