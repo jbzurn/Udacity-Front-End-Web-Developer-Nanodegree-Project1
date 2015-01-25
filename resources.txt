@@ -1,3 +1,6 @@
+Udacity Frontend Nanodegree Style Guide
+http://udacity.github.io/frontend-nanodegree-styleguide/index.html
+
 HTML & CSS styling references
 http://www.w3schools.com/cssref/css3_pr_font-stretch.asp
 http://www.w3schools.com/cssref/pr_text_word-spacing.asp 
@@ -25,6 +28,7 @@ http://www.google.com/fonts
 Code validation:
 http://jigsaw.w3.org/css-validator/validator
 http://validator.w3.org/#validate_by_input
+http://jigsaw.w3.org/css-validator/#validate_by_input
 
 People: 
 A friend suggested I install LiveReload. I installed the Mac app and the corresponding Chrome extension, configured them, and it was very helpful. 
